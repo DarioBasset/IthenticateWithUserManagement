@@ -1,0 +1,6 @@
+{
+	"name": "ithenticatewithusersmanagement",
+	"require": {
+		"phpxmlrpc/phpxmlrpc": "4.6.1"
+	}
+}
